@@ -1,11 +1,6 @@
-<!-- Profile Picture + Cartoon GIF -->
-<p align="center">
-  <!-- Profile Picture -->
-  <img src="YOUR_PROFILE_IMAGE_URL" width="180" style="border-radius:50%; border: 3px solid #ff9800;" alt="Profile Picture" />
-  
-  <!-- Flipping Cartoon GIF -->
-  <img src="YOUR_FLIPPING_CARTOON_GIF_URL" width="180" style="border-radius:50%; border: 3px solid #03a9f4;" alt="Flipping Cartoon" />
-</p>
+
+
+ 
 
 # 👋 Hi, I'm Udvas Majumder  
 

@@ -1,3 +1,12 @@
+<!-- Profile Picture + Cartoon GIF -->
+<p align="center">
+  <!-- Profile Picture -->
+  <img src="YOUR_PROFILE_IMAGE_URL" width="180" style="border-radius:50%; border: 3px solid #ff9800;" alt="Profile Picture" />
+  
+  <!-- Flipping Cartoon GIF -->
+  <img src="YOUR_FLIPPING_CARTOON_GIF_URL" width="180" style="border-radius:50%; border: 3px solid #03a9f4;" alt="Flipping Cartoon" />
+</p>
+
 # 👋 Hi, I'm Udvas Majumder  
 
 💻 **Tech Enthusiast | Problem Solver | Lifelong Learner**  
@@ -21,14 +30,17 @@ Here’s what I bring to the table:
 ---
 
 ## 📊 GitHub Stats
-![Udvas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="180" />
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 - Advanced **Data Structures & Algorithms**
 - **Full Stack Web Development**
-- **Generative AI Projects**
+- **Generative AI**
 
 ---
 
